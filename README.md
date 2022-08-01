@@ -1,9 +1,6 @@
 # 🌐 AI-Enabled FinTech B2B Invoice Management Application - [DEMO](https://drive.google.com/file/d/1ma4deNGn0aF4oW27GTSH0jssG5VfT-LU/view?usp=sharing)
 
-
 ---
-
-
 
 ## 🗒️ Introduction to B2B Operations
 
@@ -80,13 +77,3 @@ The B2B world operates differently from the B2C or C2C world. Businesses work wi
 <img src="assests/image5.png"/>
 
 ---
-
-## :man: Project Created & Maintained By
-
-<img src = "https://avatars2.githubusercontent.com/u/47274683?s=460&u=d0f1b40291f480413ce4ac9a96b6d4603289844e&v=4"  height="120" alt=""> <br>Utkarsh Chaurasia
-<p>
-<a href = "https://github.com/UtkarshChaurasia"><img src = "http://www.iconninja.com/files/241/825/211/round-collaboration-social-github-code-circle-network-icon.svg" width="36" height = "36"/></a>
-<a href = "https://www.linkedin.com/in/utkarshchaurasia/">
-<img src = "http://www.iconninja.com/files/863/607/751/network-linkedin-social-connection-circular-circle-media-icon.svg" width="36" height="36"/>
-</a>
-</p>
